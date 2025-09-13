@@ -1,0 +1,5 @@
+{
+  "name": "Nextcloud Talk Quote Bot Manager",
+  "description": "A dashboard to generate and post motivational, funny, or custom quotes to your Nextcloud Talk rooms. Configure your bot, generate quotes with AI using the Gemini API, manage a custom list, and post messages manually.",
+  "requestFramePermissions": []
+}
